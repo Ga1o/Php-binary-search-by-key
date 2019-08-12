@@ -35,4 +35,5 @@ echo "Если значение не найдено: ";
 $znach = 'ключ122';
 echo binarySearch($file, $znach)."</br>";
 
+?>
 
